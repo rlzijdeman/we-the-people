@@ -1,0 +1,1 @@
+For each archive, I'd like to derive they person observations from key resources, such as church books and population registers. This [map](https://www.genealogiewerkbalk.nl/archieven.php) provides an overview of the archives. At this point I imagine having a pipeline for earch regional area covered by an archive.
